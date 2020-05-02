@@ -18,4 +18,4 @@ Si aplicamos Git Merge --no--ff le diremos explicitamente a Git que no queremos 
 
 En la imagen podemos ver la diferencia entre ambos en una ilustracion, a la izquierda el Git Merge y a la derecha el Git Merge --no--ff.
 
-![Diferencia grafica](https://lh3.googleusercontent.com/proxy/V7WL8HbXbcCkJpgcYauzo5YHTOexURq7FNr8wWpdBIu11vF8GNcKwMbS7ChU2HKazqhw28n4pxAH00VB7x-bLeOcktWutnyjDDSTIpxxn11wYZ6SvwBzr8uUL0MLwQpVS__p)
+![Diferencia grafica](https://image.slidesharecdn.com/gittutorial-150724014321-lva1-app6891/95/git-tutorial-30-638.jpg?cb=1437702443)
